@@ -3,14 +3,14 @@
 ### Input
 * std::     => get member function from iostream
 * cout      => console out
-* "<<"        => operator insertion
+* "<<"      => operator insertion
 * "..."     => this is text (stream)
 * endl      => end line ("\n")
 * return 0  => return to main function (no error)
 
 ### Input
 * cin       => console in
-* ">>"        => operator insertion
+* ">>"      => operator insertion
 
 ## Variable
 ```cpp

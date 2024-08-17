@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
     int a = 1;
     cout << endl << "Integer" << endl;
     cout << a << endl;
@@ -45,11 +44,6 @@ int main()
     cout << g << endl;
     cout <<sizeof(g) << " byte" << endl;
 
-    string h = "ABC ABC";
-    cout << endl << "String" << endl;
-    cout << h << endl;
-    cout <<sizeof(h) << " byte" << endl;
-
     bool i = true; // or false
     cout << endl << "Bool" << endl;
     cout << i << endl;
@@ -62,6 +56,6 @@ int main()
     cout << numeric_limits<unsigned int>::min() << endl;
     cout << numeric_limits<unsigned int>::max() << endl;
 
-    // cin.get();
+    cin.get();
     return 0;
 }

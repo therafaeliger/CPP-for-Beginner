@@ -3,8 +3,10 @@
 ### About Data
 1 byte = 8-bit
 We are using "byte" for memory management
-  0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |   =>  0/1
-  1   2   3   4   5   6   7   8
+```bash
+0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  =>  0/1
+1   2   3   4   5   6   7   8
+```
 
 ### Integer
 * Integer
@@ -32,10 +34,7 @@ We are using "byte" for memory management
 ### Char
 * Character
 * Size: 1 byte => 8-bit
-
-### String
-* String (actually not a data type, but a set of character)
-* Size: 32 byte => 256-bit
+* String is not a data type, but a set of character
 
 ### Bool
 * true/false

@@ -2,13 +2,12 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
     int a;
     a = 1;
 
     cout << a << endl;
 
-    // cin.get();
+    cin.get();
     return 0;
 }
