@@ -198,5 +198,7 @@ int main() {
 
 This code adheres to best practices by using meaningful names, proper use of `const`, following naming conventions, and managing resources correctly.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Source: YouTube Channel "Kelas Terbuka", ChatGPT
+### Very special thanks to Bang Faqihza from "Kelas Terbuka", this entire tutorial is dedicated to you!!
+Source: YouTube Channel "Kelas Terbuka"
